@@ -10,7 +10,7 @@ Write three C programs, `square.c`, `double.c`, and `sqroot.c`, to perform squar
 
 ### Example
 ```bash
-$ ./square 8 | ./sqroot | ./double | ./sqroot
+$ ./square sqroot double sqroot 8
 4
 ```
 
